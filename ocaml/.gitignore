@@ -1,0 +1,6 @@
+*.cm*
+*.bak
+*.bin
+*.opt
+depend
+*.o
